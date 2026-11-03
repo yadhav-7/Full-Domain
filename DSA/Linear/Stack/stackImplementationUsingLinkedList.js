@@ -1,3 +1,4 @@
+//Implement a stack using a linked list
 class Node{
   constructor(value){
     this.value = value
