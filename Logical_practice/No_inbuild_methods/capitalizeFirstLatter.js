@@ -17,5 +17,4 @@ function capitalizeFirstLatter(str){
     return res
 
 }
-
-console.log(capitalizeFirstLatter('helo how are you'))
+    console.log(capitalizeFirstLatter('helo how are you'))
